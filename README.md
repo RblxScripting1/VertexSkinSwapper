@@ -14,7 +14,11 @@ VertexSkin Swapper
 
 
 Download -
-https://file.io/r4a0KKilmg1C
+https://www.dropbox.com/scl/fi/3qdzwdg8rv8e2age0lts7/VertexSkinChangerV1.3.exe?rlkey=ggphf26z5xmnbu8nvk8422shl&dl=0
+
+or
+
+https://drive.google.com/file/d/1bOwZ55du8ZtoqzhRZZ4-09LBT_sVYDdz/view?usp=sharing
 
 If You Are Scared It Is A Virus
 Run It Here At https://www.virustotal.com/gui/home/upload
